@@ -1,0 +1,10 @@
+{
+  "name": "althea-style-mesh",
+  "version": "1.0.0",
+  "description": "Incentivized peer-to-peer wireless mesh networking",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
